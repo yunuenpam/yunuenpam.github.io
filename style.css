@@ -1,0 +1,44 @@
+body {
+    background-color: #white;
+}
+
+#header {
+    background-color:#20B2AA;
+    color:white;
+    text-align:center;
+    font-size: 30px;
+    padding:15px; 
+}
+
+
+
+#aboutme  {
+    font-family: "Georgia";
+    font-size:	20px;
+}
+
+
+#Academics  {
+    font-family: "Georgia";
+    font-size:	20px;
+}
+
+
+#toDo  {
+    font-family: "Georgia";
+    font-size:	20px;
+}
+}
+pre {
+    font-family: "Georgia";
+    font-size: 20px;
+}
+
+
+footer {
+    background-color:#20B2AA;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
